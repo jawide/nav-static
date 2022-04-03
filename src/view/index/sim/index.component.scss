@@ -72,6 +72,15 @@ $width: 1200px;
       position: relative;
     }
 
+    .down-slide-arrow{
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      margin: 0 auto;
+      bottom: 100px;
+      opacity: 50%;
+    }
+
     .title {
       color: #fff;
       margin-bottom: 10px;
