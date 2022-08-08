@@ -14,7 +14,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/jawide/nav-static@image/wallhaven-wq6jdr-2mb.png",
+      "src": "https://ghproxy.com/https://raw.githubusercontent.com/jawide/nav-static/image/wallhaven-wq6jdr-2mb.png",
       "url": "",
       "width": null,
       "height": null
@@ -52,7 +52,7 @@
   "showRate": false,
   "mirrorList": [
     {
-      "url": "https://xjh22222228.github.io/nav/",
+      "url": "https://jawide.github.io/nav-static/",
       "icon": "",
       "name": "Github演示镜像(国外)"
     }
